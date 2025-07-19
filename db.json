@@ -365,9 +365,9 @@
     "E_d": 4.685,
     "P_d": 33.173,
     "V_d": 8.51,
-	"reaction": "2C4H8N8O8 → 8N2 + 8H2O + 4CO2 + 4C(s)",
+    "reaction": "2C4H8N8O8 → 8N2 + 8H2O + 4CO2 + 4C(s)",
     "space_group_symbol": "P21/c",
     "space_group_number": 14
-	"doi":" "
+    "doi":" "
   }
 }
